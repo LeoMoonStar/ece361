@@ -1,0 +1,4 @@
+#Zhuojun Xu, 1001087879
+#Yiming Li 1001093540
+
+I used threads to do this lab. Firstly, I basically modified a lot in the client.c, I basically added versions of checking broadcast, private user_name, etc. Then, I added authenticate function to check the message and also if user has already exists or not. Next, in server function, I had some difficulty at broadcast and list first, until I see something on beef's guide, I know it was basically similar to the method that was listed on the Internet. 
